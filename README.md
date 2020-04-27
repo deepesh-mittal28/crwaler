@@ -8,3 +8,5 @@ and to run the  program one need to go to the scraper_celeb and run it'
 after the complete execution of the program one can see the data created and 
 stored in the csv file in the folder of the project with the name celebrities list one can open it 
 and can access the it to see the database created.
+Recommended that download all the files as zip on the desktop then on uzipping it one can open it in the anaconda environment and 
+shall proceed as mentioned above
